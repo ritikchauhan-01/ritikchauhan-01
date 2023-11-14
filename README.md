@@ -1,8 +1,9 @@
-Hi, I'm Ritik Chauhan a Full Stack Developer 🚀 from India, currently, I'm looking for NEW OPPORTUNITIES and have previously worked as a python developer at GamerORB.
+Hi, I'm Ritik Chauhan a Full Stack Developer 🚀 from India, currently, I'm looking for NEW OPPORTUNITIES and have previously worked as a python developer at [GamerOrb](https://GamerOrb.com).
+Beside's programming, I enjoy traveling and reading.
 
-- 👋 Hi, I’m @ritikchauhan-01
-- 👀 I’m interested in Web Development
-- 💞️ I’m looking to collaborate on Java, Spring, AngularJs, django, python projects
+-  👨🏽‍💻 I’m currently working on something cool 😉;
+-  🌱 I’m currently practicing Micro Services;
+-  💬 Ask me about anything, I am happy to help;
 - 📫 Mail me at ritikcn05@gmail.com
 - [Resume](https://master--resilient-chimera-e444dd.netlify.app/)
 
