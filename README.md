@@ -7,7 +7,7 @@ Beside's programming, I enjoy traveling and reading.
 -  🌱 I’m currently practicing Micro Services;
 -  💬 Ask me about anything, I am happy to help;
 - 📫 Mail me at ritikcn05@gmail.com
-- 📝[Resume](https://master--resilient-chimera-e444dd.netlify.app/)
+- 📝[My Portfolio](https://master--resilient-chimera-e444dd.netlify.app/)
 
 <!---
 ritikchauhan-01/ritikchauhan-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
