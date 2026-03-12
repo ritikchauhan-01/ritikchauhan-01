@@ -1,4 +1,4 @@
-Hi, I'm **Ritik Chauhan** a Full Stack Developer 🚀 from India, currently, I'm looking for **NEW OPPORTUNITIES**and have previously worked as a python developer at [GamerOrb](https://GamerOrb.com).
+Hi, I'm **Ritik Chauhan** a Full Stack Developer having 3+ years of Experience🚀 from India, currently, I'm looking for **NEW OPPORTUNITIES**and have previously worked as a Java Developer at Infosys
 Beside's programming, I enjoy traveling and reading.
 
 ## Talking about Personal Stuffs:
